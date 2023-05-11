@@ -5,4 +5,7 @@
 -Branch
 Conflict 해결 방법 + Merge
 
+<title>이건 새로운 기능!!</title>
+VScode에서 Git 사용하자!
+
 
